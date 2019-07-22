@@ -1,0 +1,26 @@
+Partlist
+
+Exported from ArduinoProMini_Screw_Shield.brd at 22.07.2019 14:03
+
+EAGLE Version 9.4.2 Copyright (c) 1988-2019 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value                    Package                Library             Position (mm)         Orientation
+
+C2       100N                     C050-024X044           rcl                 (36.5 31)             R180
+J1                                SCREWTERMINAL-3.5MM-4  SparkFun-Connectors (94 24.25)            R90
+J2                                1X04                   SparkFun-Connectors (35 16)               R0
+J3                                SCREWTERMINAL-3.5MM-2  SparkFun-Connectors (47.5 8)              R0
+J4                                1X04                   SparkFun-Connectors (35 11)               R0
+J5                                1X04                   SparkFun-Connectors (35 6)                R0
+J6       SPI                      2X3-NS                 SparkFun-Connectors (85 22.5)             R90
+J7                                SCREWTERMINAL-3.5MM-10 SparkFun-Connectors (55.5 8)              R0
+J8                                SCREWTERMINAL-3.5MM-4  SparkFun-Connectors (94 10.25)            R90
+J10                               SCREWTERMINAL-3.5MM-10 SparkFun-Connectors (80 37)               R180
+J11                               SCREWTERMINAL-3.5MM-2  SparkFun-Connectors (87 37)               R180
+J13      5V / 7-12V               SCREWTERMINAL-5MM-2    SparkFun-Connectors (42.5 37.5)           R180
+JP1      JUMPER-3PTH              1X03                   SparkFun-Retired    (36.5 27.5)           R0
+M1       ARDUINO-PRO-MINI-3.3V#NP ARDUINO-PRO-MINI#NP    diy-modules         (63 22.5)             R0
+R1       2K2                      0204/5                 rcl                 (40.08 22.7)          R180
+R2       2K2                      0204/5                 rcl                 (37.54 19.9)          R180
